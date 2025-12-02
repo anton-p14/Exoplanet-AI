@@ -125,15 +125,6 @@ exoplanet-ai-model/
 └── README.md                  # This file
 ```
 
-## 🔮 Future Improvements
-
-- [ ] Add hyperparameter tuning (GridSearchCV)
-- [ ] Implement additional ML algorithms (XGBoost, Neural Networks)
-- [ ] Expand features (transit SNR, equilibrium temperature)
-- [ ] Create web interface for predictions
-- [ ] Add comprehensive evaluation metrics (confusion matrix, ROC-AUC)
-- [ ] Validate habitability scoring against scientific literature
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -147,13 +138,5 @@ This project is licensed under the MIT License.
 - NASA Exoplanet Archive for providing the Kepler mission data
 - The scikit-learn community for excellent ML tools
 - Kepler Space Telescope team for the groundbreaking exoplanet discoveries
-
-## 📧 Contact
-
-Anton - [@YOUR_GITHUB](https://github.com/YOUR_USERNAME)
-
-Project Link: [https://github.com/YOUR_USERNAME/exoplanet-ai-model](https://github.com/YOUR_USERNAME/exoplanet-ai-model)
-
----
 
 ⭐ **Star this repo if you find it helpful!**
